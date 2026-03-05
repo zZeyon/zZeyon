@@ -7,10 +7,3 @@ I'm currently studying a double degree in **Computer Science and Business Admini
 I'm focusing on learning different technologies that are essential for my career, such as **Git and GitHub**, while working on my own projects. I'm also dedicated to improving my English skills.
 
 Feel free to reach out if you have any suggestions! 😄
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zZeyon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZeyon&layout=compact&theme=tokyonight" />
-</p>
