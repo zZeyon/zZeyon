@@ -1,14 +1,12 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=600&lines=Computer+Science+%2B+Business+Management;Changing+the+world+by+coding)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=650&lines=Computer+Science+%2B+Business+Management;Changing+the+world+by+coding)
 
 Hello world! I'm Oscar 👋
 
-Right now I'm studying a double degree in Computer Science and Business Management in the University of Zaragoza (Spain).
+I'm currently pursuing a double degree in **Computer Science and Business Administration** at the University of Zaragoza (Spain).
 
-Meanwhile, I'm trying to learn how to use diferent technologies that I think that are a must have in my carrer like Git and Github, also trying to do some proyects by myself.
+I'm focusing on learning different technologies that are essential for my career, such as **Git and GitHub**, while working on my own projects. I'm also dedicated to improving my English skills.
 
-Apart from that I'm also improving my level of english. 
-
-That's all for now, if you have any suggestions tell me whatever you want. 😄
+Feel free to reach out if you have any suggestions! 😄
 
 ### 🛠️ Tech Stack & Tools
 
@@ -16,9 +14,7 @@ That's all for now, if you have any suggestions tell me whatever you want. 😄
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zZeyon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZeyon&layout=compact&theme=tokyonight" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zZeyon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZeyon&layout=compact&theme=tokyonight" />
+</p>
