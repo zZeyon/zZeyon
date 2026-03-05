@@ -2,7 +2,7 @@
 
 Hello world! I'm Oscar 👋
 
-Right now I'm studying a double degree of Computer Science and Business Management in the University of Zaragoza (Spain).
+Right now I'm studying a double degree in Computer Science and Business Management in the University of Zaragoza (Spain).
 
 Meanwhile, I'm trying to learn how to use diferent technologies that I think that are a must have in my carrer like Git and Github, also trying to do some proyects by myself.
 
