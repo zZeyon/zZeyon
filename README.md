@@ -1,9 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=600&lines=Computer+Science+%2B+Business+Management;Changing+the+world+by+coding)
 
-Hi,
+Hello world,
+I'm Oscar and right now I'm studying a double degree of Computer Science and Business Managemente in the University of Zaragoza (Spain).
 
-I'm currently studying to degrees in the University of Zaragoza in Spain, I'm studying software engineering and business management.
+Meanwhile, I'm trying to learn how to use diferent technologies that I think that are a must have in my carrer like Git and Github, also trying to do some proyects by myself.
 
-I'm trying to learn to use GitHub by my own and get used to it because I think that it will be a must have skill for my future.
+Apart from that I'm also improving my level of english. 
 
-That's all for know, if you have any suggestions tell me whatever you want.
+That's all for now, if you have any suggestions tell me whatever you want.
